@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-You have stumbled upon the profile of Avi Dutta, a software developer / tech-lead who currently works at Amazon.com, in Madrid. 😊
+You have stumbled upon the profile of Avi Dutta, a Software Development Manager who currently works at Amazon.com, in Madrid. 😊
 
 In case you're looking for a specific repository, most of my repositories are private, so please feel free to ping me, and I'll be more than happy to give you access.
 
