@@ -1,14 +1,16 @@
 ### Hi there! 👋
 
-You have stumbled upon the profile of Avi Dutta, a Software Development Manager who currently works at Amazon.com, in Madrid. 😊
+Welcome to the profile of Avi Dutta, a Software Development Manager currently navigating the challenges of innovation at Amazon.com's Madrid hub. 😊
 
-In case you're looking for a specific repository, most of my repositories are private, so please feel free to ping me, and I'll be more than happy to give you access.
+In case you're on the hunt for a specific repository, most of mine are kept private. However, don't hesitate to reach out—I'm more than happy to provide access if you are interested. 
 
-I'm always working something or the other, whether it's something super-serious, or some weird stuff that I'm just having fun with.
+In my day-to-day, you'll find me tinkering with a variety of projects. I'm a firm believer in perpetual learning, and strive to stay connected with the ever-evolving landscape of software engineering. 
 
-Are you as passionate about tech as I am, and would like to see if you would be a good fit at Amazon?  
-Reach out to me on LinkedIn!: https://www.linkedin.com/in/avidutta/
+Are you as passionate about technology as I am, and are interested in exploring potential opportunities at Amazon? Connect with me on LinkedIn <img src="https://www.keesingtechnologies.com/wp-content/uploads/2018/07/Linkedin-Icon.png" alt="drawing" height="1%" width="1%" />  and let's chat! https://www.linkedin.com/in/avidutta/
 
 Bye for now!
 
-![gif](https://static.wikia.nocookie.net/konjiki-no-gash/images/1/1d/Doggo.gif/revision/latest?cb=20190302110659)
+<img src="https://static.wikia.nocookie.net/konjiki-no-gash/images/1/1d/Doggo.gif/revision/latest?cb=20190302110659" alt="drawing" height="13%" width="13%" />
+
+
+
